@@ -2,17 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="26fc3b2d-77da-4b72-9357-c003e5bc01da" name="Changes" comment="#1">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epamtc/pashun/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epamtc/pashun/entity/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epamtc/pashun/log4j2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epamtc/pashun/matrixstate/MatrixState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epamtc/pashun/outputinput/PropertyLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epamtc/pashun/outputinput/Writer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epamtc/pashun/tempresults/TempResultsKeeper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epamtc/pashun/threads/MatrixAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/by/epamtc/pashun/threads/ThreadsManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/by/epamtc/pashun/runner/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/by/epamtc/pashun/runner/Runner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="26BkwyNgHdTJsyRpKTWq9a1JS9w" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,7 +40,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Digital_library" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/by/epamtc/pashun" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Task_Multithreading\src\by\epamtc\pashun" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,7 +63,28 @@
       <option name="project" value="LOCAL" />
       <updated>1646904877736</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="#1">
+      <created>1646904925305</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646904925305</updated>
+    </task>
+    <task id="LOCAL-00003" summary="#1">
+      <created>1646905034586</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1646905034586</updated>
+    </task>
+    <task id="LOCAL-00004" summary="#1">
+      <created>1646905082345</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1646905082345</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
