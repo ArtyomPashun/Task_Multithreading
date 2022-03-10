@@ -1,6 +1,6 @@
 package by.epamtc.pashun.entity;
 
-import by.emaptc.stanislavmelnikov.multithreading.outputinput.PropertyLoader;
+import bby.epamtc.pashun.outputinput.PropertyLoader;
 
 import java.util.Arrays;
 
